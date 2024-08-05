@@ -1,0 +1,11 @@
+.RightContainer {
+    width: 45%;
+    /* display: flex; */
+    /* justify-content: space-between; */
+    /* align-items: center; */
+    padding: 5px 10px;
+    background-image: url(../assets/image-hero-desktop.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100%;
+}
